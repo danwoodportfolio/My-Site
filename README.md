@@ -1,8 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to Dan Wood's github blog.  Thank you for coming!
 
-You can use the [editor on GitHub](https://github.com/danwoodportfolio/My-Site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 3.28.19
+.
+Spent some time setting up a blog through github.   I can't wait to showcase the projects that I'm working on.  
+Currently, i'm just taking baby steps, going through the new book entitled The Hacker Playbook 3.  
+I have many things I want you to know about and I'm very enthusiastic about this new blog.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
+
+
+
+
+
+
+
+Below is some instructional material on Markdown language, don't pay attention to it.
 
 ### Markdown
 
