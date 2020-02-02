@@ -1,4 +1,6 @@
-## Welcome to Dan Wood's github blog.  Thank you for coming!
+## Dan Wood's ethical hacking blog
+
+<script src="https://www.hackthebox.eu/badge/25904"></script>
 
 ### 3.28.19
 
