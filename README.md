@@ -1,4 +1,7 @@
-## Dan Wood's ethical hacking blog  <script src="https://www.hackthebox.eu/badge/25904"></script>
+## Adventures in Information Security
+###  Infosec experimentation updates by Dan Wood
+
+#<script src="https://www.hackthebox.eu/badge/25904"></script>
 
 
 
